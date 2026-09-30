@@ -12,7 +12,7 @@ I claim: 95/100
 | AI-LOG.md | 15 | 13 | Ghi chép rõ ràng việc dùng Gemini cho việc lên kế hoạch trước khi làm và dùng Copilot trong VS Code cho việc code hàm, test và CI. Tuy nhiên, cách viết chưa mô tả hoàn chỉnh lắm|
 
 ## What I did not manage
-Hoàn thành toàn bộ yêu cầu.
+Chưa tự nghĩ ra các đoạn code mà dùng toàn bộ do Copilot sinh ra.
 
 ## What I would do differently
-Ban đầu định bỏ qua test cases và CI, nhưng sau đó đã quyết định dùng AI hỗ trợ hoàn thiện 100% để hiểu rõ toàn bộ quy trình CI/CD cơ bản.
+Đọc kĩ lại cách chấm điểm để lên kế hoạch cho test case và CI từ đầu, không bỏ sót yêu cầu của fomatter/linter.
